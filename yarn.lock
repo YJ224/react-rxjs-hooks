@@ -888,9 +888,9 @@
   integrity sha512-EaCxbanVeyxDRTQBkdLb3Bvl/HK7PBK6UJjsSixB0iHKoWxE5uu2Q/DgtpOhPIojN0Zl1whvOd7PoHs2P0s5eA==
 
 "@types/sinon-chai@^3.2.3":
-  version "3.2.5"
-  resolved "https://registry.yarnpkg.com/@types/sinon-chai/-/sinon-chai-3.2.5.tgz#df21ae57b10757da0b26f512145c065f2ad45c48"
-  integrity sha512-bKQqIpew7mmIGNRlxW6Zli/QVyc3zikpGzCa797B/tRnD9OtHvZ/ts8sYXV+Ilj9u3QRaUEM8xrjgd1gwm1BpQ==
+  version "3.2.9"
+  resolved "https://registry.yarnpkg.com/@types/sinon-chai/-/sinon-chai-3.2.9.tgz#71feb938574bbadcb176c68e5ff1a6014c5e69d4"
+  integrity sha512-/19t63pFYU0ikrdbXKBWj9PCdnKyTd0Qkz0X91Ta081cYsq90OxYdcWwK/dwEoDa6dtXgj2HJfmzgq+QZTHdmQ==
   dependencies:
     "@types/chai" "*"
     "@types/sinon" "*"
